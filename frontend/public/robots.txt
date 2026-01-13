@@ -1,0 +1,13 @@
+# Insight Atlas - robots.txt
+User-agent: *
+Allow: /
+Allow: /pricing
+Allow: /about
+Disallow: /app
+Disallow: /billing
+
+# Sitemap
+Sitemap: https://insight-atlas.vercel.app/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
